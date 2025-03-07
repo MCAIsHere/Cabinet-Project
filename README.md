@@ -1,4 +1,4 @@
-# SO-Project
+# OS-Project
 
 void room (int* id, double timp_asteptare) - the consultation room where a patient sees a doctor; the consultation time is random (1 to 5 seconds, can be changed)
 
